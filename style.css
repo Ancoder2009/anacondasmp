@@ -1,0 +1,30 @@
+body {
+    background-color: whitesmoke;
+}
+
+.title {
+    text-align: center;
+    color: greenyellow;
+    margin-bottom: 0;
+    font-size: 270%;
+}
+
+.subtitle {
+    margin-top: 3px;
+}
+
+.members {
+    text-decoration: none;
+    text-align: center;
+    list-style-type: none;
+    font-size: 150%;
+}
+
+.rules {
+    text-decoration: none;
+    list-style-type: none;
+    display: block;
+    text-align: center;
+    align-self: center;
+    font-size: 150%;
+}
